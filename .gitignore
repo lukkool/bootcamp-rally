@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+env/
+venv/
+.venv/
+*.env
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# IDEs
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Streamlit cache
+.streamlit/
+
+# Snowflake credentials (never commit)
+snowflake_secrets.json
